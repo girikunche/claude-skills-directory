@@ -204,14 +204,6 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 
 ---
 
-## Contributing
-
-Pull requests welcome! Please ensure new entries:
-- Have a valid, accessible GitHub URL
-- Contain a `SKILL.md` file or clearly structured Claude skill
-- Include a concise description (under 20 words)
-- Are placed alphabetically within the correct category
-
 ## License
 
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
