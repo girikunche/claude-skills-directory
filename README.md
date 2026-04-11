@@ -198,6 +198,7 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 * [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Curated list of skills, hooks, slash commands, agent orchestrators, and Claude Code plugins.
 * [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 270+ plugins with 739 agent skills, orchestration patterns, and CCPI package manager.
 * [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) - 102 production-ready skills automating the full Agile development lifecycle.
+* [nowork-studio/toprank](https://github.com/nowork-studio/toprank) - Claude Code plugin with SEO, Google Ads, content writing, and CMS optimization skills.
 * [obra/superpowers](https://github.com/obra/superpowers) - Core skill bundle for software engineering covering TDD, debugging, review, and collaboration.
 * [sanjay3290/ai-skills](https://github.com/sanjay3290/ai-skills) - 19 skills covering databases, AI agents, Google Workspace, media, and enterprise tools.
 * [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - Curated list of Claude Skills, resources, and tools for customizing Claude AI workflows.
