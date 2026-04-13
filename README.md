@@ -2,7 +2,7 @@
 
 A curated list of awesome Claude Code skills, resources, and tools for customizing Claude AI workflows.
 
-> **Last updated:** 2026-02-28 | **Total skills:** 97
+> **Last updated:** 2026-02-28 | **Total skills:** 98
 
 ---
 
@@ -129,6 +129,7 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 * [claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production pipeline with Remotion, ElevenLabs, and FFmpeg.
 * [deapi-ai-skills](https://github.com/deapi-ai/claude-code-skills) - AI media toolkit: image generation, text-to-speech, transcription, OCR, and video.
 * [elevenlabs](https://github.com/sanjay3290/ai-skills/tree/main/skills/elevenlabs) - Text-to-speech narration and two-host podcast generation via ElevenLabs API.
+* [fabbo-ai-generator](https://github.com/fabbo-ai/fabbo-ai-generator) - Generates AI videos and images on fabbo.ai by driving a real Playwright browser session.
 * [find-scene](https://github.com/uriva/find-scene-skill) - Searches and downloads movie and TV scenes using the FindScene API.
 * [google-tts](https://github.com/sanjay3290/ai-skills/tree/main/skills/google-tts) - Text-to-speech and podcast generation using Google Cloud TTS.
 * [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generates images using Google Gemini's image generation API.
