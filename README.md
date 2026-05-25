@@ -2,7 +2,7 @@
 
 A curated list of awesome Claude Code skills, resources, and tools for customizing Claude AI workflows.
 
-> **Last updated:** 2026-02-28 | **Total skills:** 97
+> **Last updated:** 2026-05-25 | **Total skills:** 98
 
 ---
 
@@ -134,6 +134,7 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 * [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generates images using Google Gemini's image generation API.
 * [image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) - Improves image quality and resolution, especially for screenshots.
 * [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - Creates animated GIFs optimized for Slack's size constraints.
+* [socialclaw](https://github.com/ndesv21/socialclaw) - Schedule and publish posts across 13 social media platforms (X, LinkedIn, Instagram, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via a single workspace API key.
 * [video-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) - Downloads videos from YouTube and other platforms.
 * [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Drafts prompts for AI video generation models.
 * [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetches YouTube video transcripts and prepares summaries.
