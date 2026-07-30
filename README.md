@@ -2,7 +2,7 @@
 
 A curated list of awesome Claude Code skills, resources, and tools for customizing Claude AI workflows.
 
-> **Last updated:** 2026-02-28 | **Total skills:** 97
+> **Last updated:** 2026-07-30 | **Total skills:** 119
 
 ---
 
@@ -93,7 +93,7 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 * [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent authentication.
 * [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) - Queries crypto portfolio API across 20+ blockchain chains.
 * [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with row limits.
-* [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Traces execution errors back to their original source triggers.
+* [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper) - Use Xquik for X search, profiles, exports, monitoring, REST/MCP integrations, and confirmation-gated actions.
 
 ---
 
@@ -118,8 +118,8 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 
 ## 📘 Learning & Knowledge
 
+* [learn-this](https://github.com/michalparkola/tapestry-skills/tree/main/learn-this) - Extracts articles, videos, and PDFs into actionable learning plans.
 * [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Iterates on next steps based on ship-learn feedback loops.
-* [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlinks and summarizes related documents into searchable knowledge networks.
 * [writing-skills](https://github.com/obra/superpowers/tree/main/skills/writing-skills) - Framework for creating new Claude skills with integrated testing methodology.
 
 ---
@@ -129,7 +129,6 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 * [claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production pipeline with Remotion, ElevenLabs, and FFmpeg.
 * [deapi-ai-skills](https://github.com/deapi-ai/claude-code-skills) - AI media toolkit: image generation, text-to-speech, transcription, OCR, and video.
 * [elevenlabs](https://github.com/sanjay3290/ai-skills/tree/main/skills/elevenlabs) - Text-to-speech narration and two-host podcast generation via ElevenLabs API.
-* [find-scene](https://github.com/uriva/find-scene-skill) - Searches and downloads movie and TV scenes using the FindScene API.
 * [google-tts](https://github.com/sanjay3290/ai-skills/tree/main/skills/google-tts) - Text-to-speech and podcast generation using Google Cloud TTS.
 * [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generates images using Google Gemini's image generation API.
 * [image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) - Improves image quality and resolution, especially for screenshots.
@@ -164,7 +163,6 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 
 ## 🛡 Security & Web Testing
 
-* [defense-in-depth](https://github.com/obra/superpowers/tree/main/skills/defense-in-depth) - Implements multi-layered testing and defense-in-depth security practices.
 * [ffuf-web-fuzzing](https://github.com/jthack/ffuf_claude_skill) - Expert guidance for ffuf web fuzzing during penetration testing with auth support.
 * [owasp-security](https://github.com/agamm/claude-code-owasp) - OWASP Top 10:2025 and ASVS 5.0 security reviews with code checklists.
 * [trail-of-bits-security-skills](https://github.com/trailofbits/skills) - Professional security skills for CodeQL/Semgrep static analysis, auditing, and variant analysis.
@@ -180,7 +178,7 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 * [claude-code-terminal-title](https://github.com/bluzername/claude-code-terminal-title) - Provides dynamic, context-aware titles for Claude Code terminal windows.
 * [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Intelligently organizes files and folders by understanding their context.
 * [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md) - Automatically organizes invoices and receipts for tax preparation.
-* [pinme](https://github.com/glitternetwork/skills/tree/main/pinme) - Zero-config frontend deployment tool for publishing web projects.
+* [pinme](https://github.com/glitternetwork/pinme/tree/main/skills/pinme) - Zero-config frontend deployment tool for publishing web projects.
 * [skill-seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Converts documentation websites into installable Claude Skills.
 * [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) - Meta-skill that autonomously builds and improves other skills.
 * [template-skill](https://github.com/anthropics/skills/tree/main/template) - Minimal skeleton for scaffolding a new Claude skill project.
