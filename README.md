@@ -110,6 +110,7 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 * [article-extractor](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor) - Extract full article text and metadata from web pages.
 * [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) - Transforms rough ideas into fully-formed designs using Socratic method.
 * [content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) - Research, citations, hook improvement, and outline iteration for content writing.
+* [x-research](https://github.com/agentbody/skills/tree/main/skills/x-research) - Read-only X/Twitter search, trends, profiles, profile posts, media, and replies through AgentBody.
 * [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Assists with genealogy and family history research planning.
 * [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Create internal communications like status reports, newsletters, and FAQs.
 * [prompt-optimizer](https://github.com/daymade/claude-code-skills) - Optimizes prompts using the EARS (Easy Approach to Requirements Syntax) methodology.
