@@ -163,6 +163,7 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 ---
 
 ## 🛡 Security & Web Testing
+* [synomosai-traceability-audit](https://github.com/Medxpert-org/traceability-audit) - 溯源审计（Traceability Audit）：可溯源/可举证/可审计的 AI 系统方法论——三锚核验、证据链审计、真实参照法、注册方法论（署名 SynomosAI · 安全服务大使 Phylax 诺卫）。
 
 * [defense-in-depth](https://github.com/obra/superpowers/tree/main/skills/defense-in-depth) - Implements multi-layered testing and defense-in-depth security practices.
 * [ffuf-web-fuzzing](https://github.com/jthack/ffuf_claude_skill) - Expert guidance for ffuf web fuzzing during penetration testing with auth support.
