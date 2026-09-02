@@ -136,6 +136,7 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 * [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - Creates animated GIFs optimized for Slack's size constraints.
 * [video-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) - Downloads videos from YouTube and other platforms.
 * [video-prompting-skill](https://github.com/Square-Zero-Labs/video-prompting-skill) - Drafts prompts for AI video generation models.
+- [BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) - Approval-first skills for social content adaptation, scheduling, and publishing through API and MCP.
 * [youtube-transcript](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript) - Fetches YouTube video transcripts and prepares summaries.
 
 ---
