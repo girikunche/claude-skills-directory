@@ -1,4 +1,17 @@
 # Awesome Claude Skills
+## 许可说明 · License Notice
+
+- **权利状态**：本仓库以 **MIT 许可** 许可发布，可依该许可证条款自由使用、修改与再分发。
+- **引用建议**：引用时请标注仓库名与原文链接 `https://github.com/zhaoxinghua09-cell/claude-skills-directory`
+  与权利人「赵兴华 / Steven Zhao·China」。
+- **品牌状态限定**：MedXpert、SynomosAI、LGD 等为相关项目标识，
+  **均未申请实体注册、未申请商标注册**；出现仅作来源标识，
+  不构成对法人实体或商标权的任何主张。
+- **完整条款**：见仓库根目录 [LICENSE](LICENSE)。
+- **联系**：zhaoxinghua06@126.com ｜ ORCID 0009-0001-0512-1237
+
+---
+
 
 A curated list of awesome Claude Code skills, resources, and tools for customizing Claude AI workflows.
 
@@ -163,6 +176,7 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 ---
 
 ## 🛡 Security & Web Testing
+* [synomosai-traceability-audit](https://github.com/Medxpert-org/traceability-audit) - 溯源审计（Traceability Audit）：可溯源/可举证/可审计的 AI 系统方法论——三锚核验、证据链审计、真实参照法、注册方法论（署名 SynomosAI · 安全服务大使 Phylax 诺卫）。
 
 * [defense-in-depth](https://github.com/obra/superpowers/tree/main/skills/defense-in-depth) - Implements multi-layered testing and defense-in-depth security practices.
 * [ffuf-web-fuzzing](https://github.com/jthack/ffuf_claude_skill) - Expert guidance for ffuf web fuzzing during penetration testing with auth support.
