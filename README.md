@@ -196,6 +196,7 @@ A curated list of awesome Claude Code skills, resources, and tools for customizi
 * [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of skills plus 78 Composio SaaS integrations (CRM, DevOps, communication, analytics).
 * [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) - Professional marketplace of 38+ production-ready skills for enhanced development workflows.
 * [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Curated list of skills, hooks, slash commands, agent orchestrators, and Claude Code plugins.
+* [inHotel GoVisit Agent Skills Toolkit](https://github.com/inhotel-io/govisit-toolkit) - 24 portable skills for travel discovery and published GoVisit content retrieval, with developer install guidance. See the [Agent Skills docs](https://govisit.ai/en/docs/developers/agent-skills/overview).
 * [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - 270+ plugins with 739 agent skills, orchestration patterns, and CCPI package manager.
 * [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) - 102 production-ready skills automating the full Agile development lifecycle.
 * [obra/superpowers](https://github.com/obra/superpowers) - Core skill bundle for software engineering covering TDD, debugging, review, and collaboration.
